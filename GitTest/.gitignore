@@ -1,1 +1,2 @@
-/bin/
+for(int i=2; i < 10; i++) {
+			System.out.println(i + "단을 출력 합니다.");
