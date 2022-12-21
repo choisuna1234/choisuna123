@@ -1,7 +1,5 @@
 # choisuna123
 
-여ㅑ기에쓰는게 메인페이지? 에 올라가
-
 
 <div align="center" style="text-align:center">
   
@@ -26,23 +24,7 @@
 <h3 align="center">🧑‍💻 Contacts:</h3>
 
 <div align="center" style="text-align:center">
-  
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://syshin0116.github.io/)](https://syshin0116.github.io/)
-  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:syshin0116@gmail.com)](mailto:syshin0116@gmail.com)
-![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)  
-</div>
-  
-<br>
-<hr>
-<h3 align="center">👨🏻‍💻 Github Info:</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syshin0116)
-![suna's github stats](https://github-readme-stats.vercel.app/api?username=syshin0116&show_icons=true)
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyshin0116&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
+ 
 
 
 
