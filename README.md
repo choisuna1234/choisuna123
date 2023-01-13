@@ -2,7 +2,7 @@
 
 
 <div align="center" style="text-align:center">
-  
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=#333&height=180&section=header&text=%20Suna's%20Github%20&fontSize=27&animation=fadeIn&fontAlignY=30&fontColor=ffffff"/>
 ![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=transparent&height=70&section=header&text=Suna's%20Github&fontSize=50)
 
 <!--- badges from https://github.com/Ileriayo/markdown-badges --->
@@ -23,7 +23,6 @@
 <h3 align="center">🎀✨</h3>
 
 <div align="center" style="text-align:center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#333&height=180&section=header&text=%20Suna's%20Github%20&fontSize=27&animation=fadeIn&fontAlignY=30&fontColor=ffffff"/>
 <br>
 <hr>
 <h3 align="center">👨🏻‍💻 Github Info:</h3>
