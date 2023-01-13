@@ -23,7 +23,7 @@
 <h3 align="center">🎀✨</h3>
 
 <div align="center" style="text-align:center">
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=94c9e4&height=180&section=header&text=%20Lilowa's%20Github%20&fontSize=27&animation=fadeIn&fontAlignY=30&fontColor=ffffff"/>
 <br>
 <hr>
 <h3 align="center">👨🏻‍💻 Github Info:</h3>
