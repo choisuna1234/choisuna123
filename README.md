@@ -3,7 +3,7 @@
 
 <div align="center" style="text-align:center">
   
-![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=transparent&height=70&section=header&text=Syshin's%20Github&fontSize=50)
+![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=transparent&height=70&section=header&text=Suna's%20Github&fontSize=50)
 
 <!--- badges from https://github.com/Ileriayo/markdown-badges --->
 <h3 align="center">🤖 Techs:</h3>
