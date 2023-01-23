@@ -24,8 +24,3 @@
 
 <div align="center" style="text-align:center">
 <br>
-<hr>
-<h3 align="center">👨🏻‍💻 Github Info:</h3>
-
-
-</div>
