@@ -20,7 +20,6 @@
 | ☁️ Hosting    | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"> |
 
 </p>
-<hr>
  ![choisuna1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=choisuna1234&show_icons=true&theme=vue)
  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lilowa&layout=compact&theme=vue&hide_border=true)](https://github.com/choisuna1234/github-readme-stats)<br><br><br>
   
