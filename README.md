@@ -22,7 +22,7 @@
   
   <h3 align="center">👨🏻‍💻 Github Info:</h3>
 
-  ![choisuna1234's github stats](https://github-readme-stats.vercel.app/api?username=syshin0116&show_icons=true)
+  ![choisuna1234's github stats](https://github-readme-stats.vercel.app/api?username=choisuna1234&show_icons=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choisuna1234)
 
   
