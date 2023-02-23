@@ -18,11 +18,13 @@
 | 💻 IDEs / Editors    | ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/Apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white) |
 | 💾 Databases    | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)|
 | ☁️ Hosting    | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"> |
-
 </p>
- ![choisuna1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=choisuna1234&show_icons=true&theme=vue)
- [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lilowa&layout=compact&theme=vue&hide_border=true)](https://github.com/choisuna1234/github-readme-stats)<br><br><br>
   
+  <h3 align="center">👨🏻‍💻 Github Info:</h3>
+
+  ![choisuna1234's github stats](https://github-readme-stats.vercel.app/api?username=syshin0116&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choisuna1234)
+
   
 <h3 align="center">🎀✨</h3>
 <div align="center" style="text-align:center">
