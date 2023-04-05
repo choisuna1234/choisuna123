@@ -1,5 +1,4 @@
 
-ㅡㅡ
 <div align="center" style="text-align:center">
   
 ![header](https://capsule-render.vercel.app/api?animation=fadeIn&type=transparent&height=70&section=header&text=Suna's%20Github&fontSize=50)
@@ -26,4 +25,4 @@
 <h3 align="center">🎀✨</h3>
 <div align="center" style="text-align:center">
 <br>
-ㅡㅡ
+
